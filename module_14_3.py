@@ -9,7 +9,7 @@ import asyncio
 
 from aiohttp.helpers import PY_310
 
-api = "8048256706:AAFsvVGmqsyU-e5XDxuL1fmLkWyxwM7e_9g"
+api = "="
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
